@@ -1,0 +1,83 @@
+{
+	"folders": [
+		{
+			"name": "pyweb",
+			"path": "../../../../pyweb"
+		},
+		{
+			"name": "raikiri bot",
+			"path": "../../raikiri bot"
+		},
+		{
+			"name": "botjsrai",
+			"path": "../../../../botjsrai"
+		},
+		{
+			"name": "skybot",
+			"path": "../../skybot"
+		},
+		{
+			"name": "ozaru",
+			"path": ".."
+		},
+		{
+			"name": "convertidor de archivos",
+			"path": "../../../../convertidor de archivos"
+		},
+		{
+			"name": "y2mate",
+			"path": "../../../../y2mate"
+		},
+		{
+			"name": "scriptDNI",
+			"path": "../../../../scriptDNI"
+		},
+		{
+			"name": "Jarry",
+			"path": "../../../../Jarry"
+		},
+		{
+			"name": "spambot",
+			"path": "../../../../spambot"
+		},
+		{
+			"name": "backdoor prueba",
+			"path": "../../../../backdoor prueba"
+		},
+		{
+			"name": "grabber",
+			"path": "../../../../grabber"
+		},
+		{
+			"name": "phishing",
+			"path": "../../../../phishing"
+		},
+		{
+			"path": "../../../../cifradorDeCodigo"
+		},
+		{
+			"path": "../../../../iplogger web"
+		},
+		{
+			"path": "../../../../grabberprueba"
+		},
+		{
+			"path": "../../../../botraidinjs"
+		},
+		{
+			"path": "../../../../my-bot"
+		},
+		{
+			"path": "../../../../asmprimercodigo"
+		},
+		{
+			"path": "../../../../harvard"
+		},
+		{
+			"path": "../../../../ly animation"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "pyweb"
+	}
+}
